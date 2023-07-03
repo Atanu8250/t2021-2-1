@@ -73,7 +73,7 @@ class BasicCalculator {
 }
 ```
 
-</details open>
+</details>>
 
 ---
 
@@ -114,7 +114,7 @@ function getOddNums(n = 1) {
   }
 ```
 
-</details open>
+</details>>
 
 ---
 
@@ -159,8 +159,7 @@ function getOddNums(n = 1) {
 }
 ```
 
-</details open>
-
+</details>
 ---
 
 ## Problem 4: Counting Multiples in an Array
@@ -214,7 +213,7 @@ function getCountOfMultiples(inputArr = []) {
 }
 ```
 
-</details open>
+</details>>
 
 ---
 
