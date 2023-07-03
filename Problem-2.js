@@ -27,7 +27,7 @@ function getOddNums(n = 1) {
     }
   
     // Log the generated odd numbers to the console
-    console.log(`Output: ${oddNumbers.join(", ")}`);
+    console.log(`Output for input ${n}: ${oddNumbers.join(", ")}`);
   
     // Return the array of odd numbers
     return oddNumbers;
