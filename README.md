@@ -15,7 +15,7 @@ The problem requires creating a small calculator that performs basic operations 
 5. Return the result of the calculation.
 
 <details open>
-     <summary><b><u>Code</u></b><summary>
+<summary><b><u>Code</u></b></summary>
 
 ```javascript
 class BasicCalculator {
@@ -72,8 +72,8 @@ class BasicCalculator {
      }
 }
 ```
-
-</details>>
+          
+</details>
 
 ---
 
@@ -89,7 +89,7 @@ The problem requires generating a series of odd numbers based on the input value
 4. Return the array of odd numbers.
 
 <details open>
-     <summary><b><u>Code</u></b><summary>
+<summary><b><u>Code</u></b></summary>
 
 ```javascript
 /**
@@ -113,8 +113,8 @@ function getOddNums(n = 1) {
     return oddNumbers;
   }
 ```
-
-</details>>
+          
+</details>
 
 ---
 
@@ -131,7 +131,7 @@ This problem is similar to Problem 2 but has a slightly different pattern in the
 5. Return the array of odd numbers.
 
 <details open>
-     <summary><b><u>Code</u></b><summary>
+<summary><b><u>Code</u></b></summary>
 
 ```javascript
 /**
@@ -157,9 +157,9 @@ function getOddNums(n = 1) {
     // Return the array of odd numbers
     return oddNumbers;
 }
-```
-
+```    
 </details>
+
 ---
 
 ## Problem 4: Counting Multiples in an Array
@@ -177,7 +177,7 @@ The problem requires counting the total occurrences of numbers in the given arra
 7. Return the `recordMultiples` object.
 
 <details open>
-     <summary><b><u>Code</u></b><summary>
+<summary><b><u>Code</u></b></summary>
 
 ```javascript
 /**
@@ -212,8 +212,7 @@ function getCountOfMultiples(inputArr = []) {
     return recordMultiples;
 }
 ```
-
-</details>>
+</details>
 
 ---
 
