@@ -10,7 +10,7 @@ Get the total count of number listed in the dictionary which is multiple of [1,2
  * @param {Array} inputArr - Array of numbers.
  * @returns {Object} - Object with the total counts of numbers that are multiples of [1, 2, 3, 4, 5, 6, 7, 8, 9].
  */
-function getCountOfMultiples(inputArr) {
+function getCountOfMultiples(inputArr = []) {
     // Create an object to record the count of multiples for each number
     const recordMultiples = {};
 
@@ -38,4 +38,4 @@ function getCountOfMultiples(inputArr) {
 }
 
 // Example usage
-getCountOfMultiples([1, 2, 8, 9, 12, 46, 76, 82, 15, 20, 30]);
+getCountOfMultiples();
