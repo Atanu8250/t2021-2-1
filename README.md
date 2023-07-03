@@ -75,6 +75,8 @@ class BasicCalculator {
 
 </details open>
 
+---
+
 ## Problem 2: Generating Odd Numbers
 
 ### Intuition:
@@ -113,6 +115,8 @@ function getOddNums(n = 1) {
 ```
 
 </details open>
+
+---
 
 ## Problem 3: Generating Odd Numbers (Alternate)
 
@@ -156,6 +160,8 @@ function getOddNums(n = 1) {
 ```
 
 </details open>
+
+---
 
 ## Problem 4: Counting Multiples in an Array
 
@@ -209,6 +215,8 @@ function getCountOfMultiples(inputArr = []) {
 ```
 
 </details open>
+
+---
 
 ## Time Complexity and Space Complexity:
 The time complexity and space complexity for each problem are as follows:
